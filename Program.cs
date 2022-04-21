@@ -18,13 +18,6 @@ class multiples
         
         int[,] tabellina = new int[sizeX, sizeY];
 
-        // for(int i = 0; i < 4; i++)
-        // {
-        //     for(int j=0; j < 5; j++)
-        //     {
-        //         numeri[i,j] = 25*i + (j+1)*5;
-        //     }
-        // }
         
         Console.WriteLine("     ---------------------Tabellina del {0}--------------------", numero);
 
